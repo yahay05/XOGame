@@ -1,0 +1,15 @@
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/bin/Debug/net5.0/XOGame.deps.json
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/bin/Debug/net5.0/XOGame.runtimeconfig.json
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/bin/Debug/net5.0/XOGame.runtimeconfig.dev.json
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/bin/Debug/net5.0/XOGame.dll
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/bin/Debug/net5.0/ref/XOGame.dll
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/bin/Debug/net5.0/XOGame.pdb
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/obj/Debug/net5.0/XOGame.csproj.AssemblyReference.cache
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/obj/Debug/net5.0/XOGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/obj/Debug/net5.0/XOGame.AssemblyInfoInputs.cache
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/obj/Debug/net5.0/XOGame.AssemblyInfo.cs
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/obj/Debug/net5.0/XOGame.csproj.CoreCompileInputs.cache
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/obj/Debug/net5.0/XOGame.dll
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/obj/Debug/net5.0/ref/XOGame.dll
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/obj/Debug/net5.0/XOGame.pdb
+/Users/arajabov/Desktop/C# Projects/ConsoleApplications/XOGame/XOGame/obj/Debug/net5.0/XOGame.genruntimeconfig.cache
