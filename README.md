@@ -5,6 +5,10 @@ This is a game which you can play in console.
 
 But please when you include the cordinetes include just numbers, don't include any symbols or letters ;)
 
+### Information
+This is a ConsoleApplication which written in C#.
+You can play as much as you wand. Enjoy !!!
+
 ## Installation
 
 You can install XOGame easily with following next commands:
