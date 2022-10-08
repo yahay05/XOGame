@@ -1,6 +1,8 @@
 
 # XOGame
 
+Tic toc toe
+
 This is a game which you can play in console.
 
 But please when you include the cordinetes include just numbers, don't include any symbols or letters ;)
